@@ -1,3 +1,3 @@
-# GreenPeas2
+# GreenPeas
 Code for Senior Thesis (2020)
 
